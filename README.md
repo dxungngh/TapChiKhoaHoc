@@ -1,6 +1,6 @@
 # Overview
 
-This project is Vietnamese Science magazine. This app is using **Android-CleanArchitecture Of Uncle Bob**
+This project is Vietnamese Science magazine. This app is using [Android-CleanArchitecture Of Uncle Bob]
 I am using template of [Android-Clean-Boilerplate]
 
 This starter app supports **API 15 and above**.
