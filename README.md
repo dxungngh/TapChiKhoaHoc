@@ -1,7 +1,7 @@
 # Overview
 
 This project is Vietnamese Science magazine. This app is using **Clean architecture of Uncle Bob**
-I am using template of [Android-Clean-Boilerplate]: <https://github.com/dmilicic/Android-Clean-Boilerplate>
+I am using template of [Android-Clean-Boilerplate]
 
 This starter app supports **API 15 and above**.
 
@@ -27,5 +27,6 @@ This starter app supports **API 15 and above**.
 [DBFlow]: <https://github.com/Raizlabs/DBFlow>
 [SharedPreferences]: <http://developer.android.com/training/basics/data-storage/shared-preferences.html>
 [ContentProviders]: <http://developer.android.com/guide/topics/providers/content-providers.html>
+[Android-Clean-Boilerplate]: <https://github.com/dmilicic/Android-Clean-Boilerplate>
 
 [Android-CleanArchitecture]: <https://github.com/android10/Android-CleanArchitecture>
