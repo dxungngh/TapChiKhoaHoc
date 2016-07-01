@@ -28,4 +28,4 @@ This starter app supports **API 15 and above**.
 [SharedPreferences]: <http://developer.android.com/training/basics/data-storage/shared-preferences.html>
 [ContentProviders]: <http://developer.android.com/guide/topics/providers/content-providers.html>
 [Android-Clean-Boilerplate]: <https://github.com/dmilicic/Android-Clean-Boilerplate>
-[Android-CleanArchitecture Of Uncle Bob]: <https://github.com/android10/Android-CleanArchitecture>
+[Android-CleanArchitecture Of Uncle Bob]: <http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/>
